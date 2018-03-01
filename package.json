@@ -1,14 +1,14 @@
 {
   "name": "sas7bdat",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Read SAS files in JavaScript. Because you always wanted to do that, right?",
-  "homepage": "https://github.com/dumbmatter/sas7bdat-js",
+  "homepage": "https://github.com/Clowting/sas7bdat-js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dumbmatter/sas7bdat-js.git"
+    "url": "git://github.com/Clowting/sas7bdat-js.git"
   },
   "bugs": {
-    "url": "https://github.com/dumbmatter/sas7bdat-js/issues"
+    "url": "https://github.com/Clowting/sas7bdat-js/issues"
   },
   "main": "build/index.js",
   "scripts": {
